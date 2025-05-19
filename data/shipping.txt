@@ -1,0 +1,62 @@
+Comprehensive Shipping Guide
+
+1. Available Shipping Options (≈250 words)
+   - **Standard Shipping**  
+     - Delivery in 3–5 business days (M–F, excluding holidays).  
+     - Free on orders over $50; otherwise a flat $5.99 fee.  
+     - Carrier partners: USPS, UPS, FedEx (zone‑based assignment).
+
+   - **Expedited Shipping**  
+     - Delivery in 1–2 business days.  
+     - Fee: $12.99 flat, regardless of order value.  
+     - Weekend delivery available at select ZIP codes (+$5 surcharge).
+
+   - **Overnight Shipping**  
+     - Next‑business‑day delivery if ordered before 2 pm local time.  
+     - Fee: $24.99.  
+     - Not available for PO Boxes or APO/FPO addresses.
+
+   - **International Shipping**  
+     - Delivery varies by country (7–21 business days).  
+     - Rates calculated at checkout based on weight/dimensions/destination.  
+     - Customs duties and taxes may apply; these are the customer’s responsibility unless we opt to pre-pay.
+
+2. Tracking & Notifications (≈200 words)
+   - **Tracking Number**  
+     - Provided via email/SMS once the order ships.  
+     - Clickable link directs to carrier’s tracking page.
+   - **Real‑Time Updates**  
+     - Status changes (label created, in transit, out for delivery, delivered).  
+     - Geo‑location mapping in account dashboard for select carriers.
+   - **Delivery Instructions**  
+     - Add delivery notes (e.g., “Leave at front porch,” “Ring bell twice”).  
+     - Signature requirement can be toggled at checkout (no extra fee).
+
+3. Shipping Restrictions & Policies (≈200 words)
+   - **PO Boxes**: Not eligible for Standard or Overnight; use street address.  
+   - **Hazardous Materials**: Batteries, aerosols, certain chemicals—may incur additional fees or shipping delays.  
+   - **Oversized Items**: Furniture, large appliances—flat‑rate freight shipping; delivery appointments may be required.
+   - **Address Accuracy**:  
+     - We validate addresses at checkout; incorrect addresses may incur redelivery fees.  
+     - If undeliverable, returned to us—customer pays return/shipment fees.
+
+4. Lost, Damaged & Delayed Shipments (≈200 words)
+   - **Lost Packages**  
+     - File a claim via “My Orders” > Order details > “Report an issue.”  
+     - Our team investigates with the carrier; replacement or refund within 10 business days.
+   - **Damaged Items**  
+     - Photograph packaging and item; submit via support form within 48 hours of delivery.  
+     - We’ll arrange return shipping and issue a refund or replacement.
+   - **Delays**  
+     - Weather, customs, and carrier logistics can affect transit.  
+     - You’ll receive automated delay notifications; contact support for manual escalation.
+
+5. Eco‑Friendly Shipping Initiatives (≈150 words)
+   - **Carbon‑Neutral Option**  
+     - Offset program invests in reforestation; $1 per order.  
+   - **Consolidated Packing**  
+     - Combine multiple items into one shipment where possible.  
+   - **Recycled Packaging**  
+     - 100% recyclable mailers and boxes; biodegradable packing fill.
+
+Our shipping framework balances speed, cost, and sustainability, with clear policies to keep you informed and protected at every step.  

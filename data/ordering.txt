@@ -1,0 +1,54 @@
+This document outlines our complete ordering workflow, payment options, and post‑order notifications.
+
+1. Browsing & Selection (≈200 words)
+   - Use the top navigation menu or sidebar filters (category, brand, price range) to explore products.
+   - Search bar supports keywords, SKUs, and voice input on mobile.
+   - Product listings display thumbnail, name, star rating, price, and promotional badges (e.g., “Best Seller,” “New Arrival”).
+   - Click on a product to view detailed images, zoom-in, 360° view, video demos, and “compare” checkboxes to evaluate multiple items side by side.
+
+2. Shopping Cart Management (≈200 words)
+   - **Add to Cart**: Select size/color/quantity, then “Add to Cart.”  
+   - **Mini‑Cart Preview**: Hover over cart icon (desktop) or tap icon (mobile) to see current items, subtotal, and proceed button.  
+   - **Cart Page**:  
+     - Edit quantities, remove items, save for later.  
+     - “Apply coupon” field with instant discount preview.  
+     - Estimated tax and shipping fees dynamically updated based on address.
+
+3. Checkout Process (≈250 words)
+   - **Step 1: Sign In / Guest Checkout**  
+     - Registered users sign in via email/password, Google, Facebook, or Apple.  
+     - Guest checkout only requires email for order confirmation.
+   - **Step 2: Shipping Address**  
+     - Enter or select saved addresses.  
+     - Address validation suggests corrections and flags PO Boxes (not accepted).
+   - **Step 3: Shipping Method**  
+     - Standard (3–5 days), Expedited (1–2 days), Overnight (next business day).  
+     - Fee breakdown shown.  
+     - Estimated delivery date displayed alongside each option.
+   - **Step 4: Payment**  
+     - Accepted methods: Visa, MasterCard, American Express, Discover, PayPal, Apple Pay, Google Pay.  
+     - 3‑D Secure / OTP for card verification.  
+     - Option to save card for future use (PCI‑compliant tokenization).
+   - **Step 5: Review & Place Order**  
+     - Full order summary: items, pricing, taxes, shipping, discounts, total.  
+     - “Edit” buttons available next to each section.  
+     - “Place Order” button shows estimated processing time (~1 minute).
+   - **Step 6: Confirmation**  
+     - On‑screen confirmation number and summary.  
+     - Confirmation email sent within seconds, containing order details, estimated delivery date, and contact link.
+
+4. Post‑Order Notifications & Tracking (≈200 words)
+   - **Emails & SMS**  
+     - Order received, order shipped, out for delivery, delivered.  
+     - Optional SMS alerts can be toggled in account settings.
+   - **Account Dashboard**  
+     - “My Orders” shows real‑time status, tracking link, and invoice PDF download.
+   - **Support**  
+     - “Contact Us” link available on every page; live chat and email ticket options.
+
+5. Cancellations & Modifications (≈150 words)
+   - Orders can be canceled or modified within 30 minutes of placement.  
+   - After that window, you can request changes via Customer Support; subject to warehouse processing status.  
+   - Any refunds for cancellations are processed within 5–7 business days back to the original payment method.
+
+This ordering flow ensures a seamless experience from discovery to delivery, with transparency and real‑time updates at every stage.  

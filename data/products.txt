@@ -1,0 +1,80 @@
+Our e‑commerce platform offers an extensive catalog across multiple categories, designed to meet diverse customer needs. Below is a detailed breakdown of our primary product lines, with examples, features, and tips for choosing.
+
+1. Electronics (≈200 words)
+   - **Smartphones**  
+     We stock the latest flagship and budget models from leading brands such as Apple, Samsung, Google, and OnePlus. Key specs—processor, RAM, storage, camera resolution, battery capacity—are highlighted on each product page.  
+     - *Example*: Galaxy S25 Ultra – 6.8" AMOLED, Snapdragon 8 Gen 3, 12 GB RAM, 256 GB storage, 108 MP main camera.  
+     - *Tip*: Look for battery life and charging speed if you’re a heavy user; if photography matters, compare sensor size and optical image stabilization.
+
+   - **Laptops & Tablets**  
+     From ultraportable notebooks for on‑the‑go work to powerful gaming rigs, our selection spans Windows, macOS, and ChromeOS devices.  
+     - *Example*: MacBook Air M3 – 13.6" Liquid Retina, Apple M3 chip, 8 GB unified memory, 512 GB SSD, price 2000$.  
+     - *Tip*: Balance CPU/GPU performance against battery life; consider screen resolution and refresh rate for creative work or gaming.
+
+   - **Audio & Wearables**  
+     High-fidelity headphones, true wireless earbuds, and smartwatches that integrate health tracking, notifications, and apps.  
+     - *Example*: Sony WH‑1000XM5 – Active Noise Cancellation, up to 30 hr battery, multipoint Bluetooth.  
+     - *Tip*: Check for IP rating if you need water/sweat resistance for workouts.
+
+2. Fashion (≈200 words)
+   - **Apparel**  
+     Men’s and women’s clothing across casual, formal, and athleisure. We feature seasonal collections, size guides, and “fit finder” tools.  
+     - *Example*: Women’s Stretch Denim Jacket – slim fit, four‑way stretch, machine washable.  
+     - *Tip*: Use size charts and read reviews for sizing accuracy; look for fabric composition for comfort and care instructions.
+
+   - **Footwear**  
+     Sneakers, boots, sandals, and dress shoes. Each listing shows sole material, arch support, and width options.  
+     - *Example*: Nike Air Zoom Pegasus 42 – mesh upper, Zoom Air cushioning, available in narrow/regular/wide.  
+     - *Tip*: Consider your typical activity—running, hiking, office wear—and choose support accordingly.
+
+   - **Accessories**  
+     Bags, belts, watches, and jewelry curated by style and occasion.  
+     - *Example*: Leather Crossbody Bag – genuine leather, adjustable strap, RFID-blocking pocket.  
+     - *Tip*: Check dimensions and weight; for travel, look for anti-theft features.
+
+3. Home & Kitchen (≈200 words)
+   - **Appliances**  
+     Refrigerators, microwaves, air fryers, robot vacuums. We provide energy ratings, capacity, and noise level.  
+     - *Example*: Instant Pot Duo60 – 6‑quart multicooker, 7‑in‑1 functionality, stainless steel pot.  
+     - *Tip*: Choose size based on household; look for programmable presets to simplify cooking.
+
+   - **Furniture & Décor**  
+     Sofas, tables, lighting, rugs. Each item lists dimensions, materials, and assembly requirements.  
+     - *Example*: Mid‑Century Modern TV Stand – solid wood frame, tempered glass shelf, tool‑free assembly.  
+     - *Tip*: Measure your space carefully; read assembly instructions to check for required tools.
+
+   - **Cookware & Utensils**  
+     Nonstick pans, cast‑iron skillets, knives, gadgets. Heat resistance, warranty, and maintenance tips are included.  
+     - *Example*: Lodge 10‑inch Seasoned Cast Iron Skillet – pre‑seasoned, oven safe to 500°F.  
+     - *Tip*: Cast iron requires re‑seasoning; nonstick pans need careful utensils to avoid scratches.
+
+4. Beauty & Personal Care (≈200 words)
+   - **Skincare**  
+     Cleansers, serums, moisturizers, sunscreens from dermatologically tested brands. Ingredient lists and skin‑type recommendations are provided.  
+     - *Example*: CeraVe Moisturizing Cream – ceramides, hyaluronic acid, fragrance‑free.  
+     - *Tip*: Patch‑test new products; use broad‑spectrum SPF 30+ daily.
+
+   - **Makeup**  
+     Foundations, lipsticks, eyeshadows, tools. Shade finder and ingredient notes help with skin tone matching and sensitivities.  
+     - *Example*: Fenty Beauty Pro Filt’r Soft Matte Foundation – 50+ shades, oil‑free formula.  
+     - *Tip*: Read reviews for true‑to‑shade photos; check for non‑comedogenic claims if prone to breakouts.
+
+   - **Hair Care & Tools**  
+     Shampoos, conditioners, styling tools. Heat settings, brush types, and hair‑type guides are included.  
+     - *Example*: Dyson Airwrap Complete Styler – Coanda airflow technology, multiple attachments.  
+     - *Tip*: Use heat protectant sprays; store attachments safely to avoid damage.
+
+5. Sports & Outdoors (≈150 words)
+   - **Equipment**  
+     Tents, sleeping bags, bicycles, fitness equipment.  
+   - **Activewear**  
+     Moisture‑wicking fabrics, reflective gear, compression wear.  
+   - **Accessories**  
+     Water bottles, backpacks, GPS devices.
+
+Each product page features:  
+- **Customer Reviews**: Aggregated star rating + top pros/cons.  
+- **Q&A Section**: Real‑time answered by our support team.  
+- **Warranty & Support**: Details on manufacturer warranty, extended warranty options, and support contacts.
+
+Discover detailed specs, compare options side by side, and read honest reviews to make the best choice for your needs.  

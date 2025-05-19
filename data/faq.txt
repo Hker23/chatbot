@@ -1,0 +1,41 @@
+Frequently Asked Questions
+
+1. Account Management (≈200 words)
+   - **Q:** How do I reset my password?  
+     **A:** Click “Forgot Password” on the login page, enter your email, then follow the link in the email to set a new password. If you don’t see it, check spam or request a new link.
+   - **Q:** How do I update my email or shipping address?  
+     **A:** Sign in, go to “My Account” > “Profile,” then edit your email or addresses. Changes will apply to future orders only.
+
+2. Orders & Payments (≈200 words)
+   - **Q:** Can I change or cancel my order?  
+     **A:** Orders can be modified or canceled within 30 minutes of placement via “My Orders.” After that, contact Customer Support with your order number.  
+   - **Q:** What payment methods are accepted?  
+     **A:** Visa, Mastercard, AmEx, Discover, PayPal, Apple Pay, and Google Pay. Installment plans available via Klarna or Afterpay in select regions.
+   - **Q:** Why was my payment declined?  
+     **A:** Check that billing address matches your card, sufficient funds, and that 3‑D Secure challenge was completed. Contact your bank if issues persist.
+
+3. Shipping & Delivery (≈200 words)
+   - **Q:** How can I track my order?  
+     **A:** After shipping, check the tracking link in your email or “My Orders.” For real‑time map updates, click the map icon next to status updates.  
+   - **Q:** Do you ship internationally?  
+     **A:** Yes—select your country at checkout. Duties and taxes may be collected at checkout or upon delivery depending on destination.  
+   - **Q:** What if my package is lost or stolen?  
+     **A:** Report via “My Orders” > “Report an Issue.” We’ll open a claim with the carrier. If confirmed lost, you can choose a replacement or refund.
+
+4. Products & Returns (≈200 words)
+   - **Q:** What is your return policy?  
+     **A:** Most items eligible within 30 days in original, unused condition. Personalized/final‑sale items excluded. Use “Request Return” in your order details to start.  
+   - **Q:** How long until I get my refund?  
+     **A:** 7 business days after we receive and inspect your return. Your bank may take additional days to post the refund.
+   - **Q:** How do I apply a promo code?  
+     **A:** Enter code in the “Apply coupon” field on the cart page. Only one promo code per order.  
+   - **Q:** Do you have a loyalty program?  
+     **A:** Yes—join for free to earn points on every purchase, redeemable for discounts. Tiered status unlocks free shipping and exclusive sales.
+
+5. Technical & Security (≈100 words)
+   - **Q:** Is my payment information secure?  
+     **A:** We use PCI‑compliant tokenization; card details never stored on our servers. All pages use HTTPS with SSL encryption.  
+   - **Q:** I’m experiencing website errors—what now?  
+     **A:** Clear your cache/cookies, try another browser, or contact Support with a screenshot and your browser version.
+
+Still have questions? Reach out to our 24/7 live chat or email support at support@example.com.  

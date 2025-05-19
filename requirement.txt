@@ -1,0 +1,7 @@
+langchain
+streamlit
+langchain-google-genai
+google-generativeai
+chromadb
+langchain-community
+langsmith
