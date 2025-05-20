@@ -1,6 +1,6 @@
 Our e‑commerce platform offers an extensive catalog across multiple categories, designed to meet diverse customer needs. Below is a detailed breakdown of our primary product lines, with examples, features, and tips for choosing.
 
-1. Electronics (≈200 words)
+1. Electronics
    - **Smartphones**  
      We stock the latest flagship and budget models from leading brands such as Apple, Samsung, Google, and OnePlus. Key specs—processor, RAM, storage, camera resolution, battery capacity—are highlighted on each product page.  
      - *Example*: Galaxy S25 Ultra – 6.8" AMOLED, Snapdragon 8 Gen 3, 12 GB RAM, 256 GB storage, 108 MP main camera.  
@@ -16,7 +16,7 @@ Our e‑commerce platform offers an extensive catalog across multiple categories
      - *Example*: Sony WH‑1000XM5 – Active Noise Cancellation, up to 30 hr battery, multipoint Bluetooth.  
      - *Tip*: Check for IP rating if you need water/sweat resistance for workouts.
 
-2. Fashion (≈200 words)
+2. Fashion
    - **Apparel**  
      Men’s and women’s clothing across casual, formal, and athleisure. We feature seasonal collections, size guides, and “fit finder” tools.  
      - *Example*: Women’s Stretch Denim Jacket – slim fit, four‑way stretch, machine washable.  
@@ -32,7 +32,7 @@ Our e‑commerce platform offers an extensive catalog across multiple categories
      - *Example*: Leather Crossbody Bag – genuine leather, adjustable strap, RFID-blocking pocket.  
      - *Tip*: Check dimensions and weight; for travel, look for anti-theft features.
 
-3. Home & Kitchen (≈200 words)
+3. Home & Kitchen
    - **Appliances**  
      Refrigerators, microwaves, air fryers, robot vacuums. We provide energy ratings, capacity, and noise level.  
      - *Example*: Instant Pot Duo60 – 6‑quart multicooker, 7‑in‑1 functionality, stainless steel pot.  
@@ -48,7 +48,7 @@ Our e‑commerce platform offers an extensive catalog across multiple categories
      - *Example*: Lodge 10‑inch Seasoned Cast Iron Skillet – pre‑seasoned, oven safe to 500°F.  
      - *Tip*: Cast iron requires re‑seasoning; nonstick pans need careful utensils to avoid scratches.
 
-4. Beauty & Personal Care (≈200 words)
+4. Beauty & Personal Care
    - **Skincare**  
      Cleansers, serums, moisturizers, sunscreens from dermatologically tested brands. Ingredient lists and skin‑type recommendations are provided.  
      - *Example*: CeraVe Moisturizing Cream – ceramides, hyaluronic acid, fragrance‑free.  
@@ -64,7 +64,7 @@ Our e‑commerce platform offers an extensive catalog across multiple categories
      - *Example*: Dyson Airwrap Complete Styler – Coanda airflow technology, multiple attachments.  
      - *Tip*: Use heat protectant sprays; store attachments safely to avoid damage.
 
-5. Sports & Outdoors (≈150 words)
+5. Sports & Outdoors
    - **Equipment**  
      Tents, sleeping bags, bicycles, fitness equipment.  
    - **Activewear**  
@@ -77,4 +77,66 @@ Each product page features:
 - **Q&A Section**: Real‑time answered by our support team.  
 - **Warranty & Support**: Details on manufacturer warranty, extended warranty options, and support contacts.
 
-Discover detailed specs, compare options side by side, and read honest reviews to make the best choice for your needs.  
+Discover detailed specs, compare options side by side, and read honest reviews to make the best choice for your needs. 
+Title: Product Information - Electronics
+
+Product Name: Apple iPhone 15 Pro Max  
+Category: Smartphones  
+Price: $1199  
+Specifications:
+- Display: 6.7-inch Super Retina XDR OLED
+- Chip: A17 Pro
+- Storage: 128GB / 256GB / 512GB / 1TB
+- Camera: 48MP + 12MP + LiDAR Scanner
+Warranty: 1 year  
+Returnable: Within 30 days if unopened.
+
+---
+
+Product Name: Sony WH-1000XM5 Wireless Headphones  
+Category: Audio Accessories  
+Price: $399  
+Features:
+- Industry-leading noise cancellation
+- Up to 30 hours battery life
+- Quick charge (3 mins = 3 hrs play)
+Color Options: Black / Silver  
+Warranty: 1 year manufacturer warranty  
+Returnable: Yes, within 30 days.
+
+---
+
+Product Name: Samsung QLED 4K Smart TV 55"  
+Category: Home Electronics  
+Price: $649  
+Features:
+- 4K UHD Resolution
+- Smart TV with Tizen OS
+- Voice Control (Google Assistant & Alexa)
+Returnable: Within 30 days  
+Warranty: 2 years
+
+---
+
+Product Name: Nike Air Zoom Pegasus 40  
+Category: Footwear  
+Price: $130  
+Features:
+- Lightweight running shoe
+- Responsive cushioning (Zoom Air)
+Sizes Available: US 6–12 (Men), US 5–11 (Women)  
+Return Policy: 30 days return if unused  
+Color Options: Black, White, Blue, Red
+
+---
+
+Product Name: Instant Vortex Plus 6-in-1 Air Fryer  
+Category: Kitchen Appliances  
+Price: $99  
+Features:
+- Air Fry, Bake, Roast, Reheat, Dehydrate
+- Capacity: 6 Quart
+- Easy touch control panel  
+Warranty: 1 year  
+Returnable: Yes (unused)
+

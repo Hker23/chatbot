@@ -1,62 +1,45 @@
-Comprehensive Shipping Guide
+Title: Standard Shipping Policy
 
-1. Available Shipping Options (≈250 words)
-   - **Standard Shipping**  
-     - Delivery in 3–5 business days (M–F, excluding holidays).  
-     - Free on orders over $50; otherwise a flat $5.99 fee.  
-     - Carrier partners: USPS, UPS, FedEx (zone‑based assignment).
+Shipping Method: Standard  
+Estimated Delivery Time: 3–5 business days  
+Shipping Fee:
+- Free for orders over $50
+- $4.99 flat rate for orders under $50
+Applies to domestic orders only.  
+Tracking is provided via email after dispatch.
 
-   - **Expedited Shipping**  
-     - Delivery in 1–2 business days.  
-     - Fee: $12.99 flat, regardless of order value.  
-     - Weekend delivery available at select ZIP codes (+$5 surcharge).
+Title: Express and Same-Day Delivery
 
-   - **Overnight Shipping**  
-     - Next‑business‑day delivery if ordered before 2 pm local time.  
-     - Fee: $24.99.  
-     - Not available for PO Boxes or APO/FPO addresses.
+Shipping Options:
+- Express Delivery: 1–2 business days ($9.99)
+- Same-Day Delivery (in select cities): $14.99
+Cut-off Time: Orders placed before 12 PM qualify for same-day delivery.
+Not applicable on Sundays or public holidays.
 
-   - **International Shipping**  
-     - Delivery varies by country (7–21 business days).  
-     - Rates calculated at checkout based on weight/dimensions/destination.  
-     - Customs duties and taxes may apply; these are the customer’s responsibility unless we opt to pre-pay.
+Title: International Shipping
 
-2. Tracking & Notifications (≈200 words)
-   - **Tracking Number**  
-     - Provided via email/SMS once the order ships.  
-     - Clickable link directs to carrier’s tracking page.
-   - **Real‑Time Updates**  
-     - Status changes (label created, in transit, out for delivery, delivered).  
-     - Geo‑location mapping in account dashboard for select carriers.
-   - **Delivery Instructions**  
-     - Add delivery notes (e.g., “Leave at front porch,” “Ring bell twice”).  
-     - Signature requirement can be toggled at checkout (no extra fee).
+Availability: 30+ countries  
+Delivery Time: 7–14 business days  
+Fee: Calculated at checkout based on destination and weight  
+Customs Duties: May apply and are the responsibility of the customer  
+Note: Some items cannot be shipped internationally due to restrictions.
 
-3. Shipping Restrictions & Policies (≈200 words)
-   - **PO Boxes**: Not eligible for Standard or Overnight; use street address.  
-   - **Hazardous Materials**: Batteries, aerosols, certain chemicals—may incur additional fees or shipping delays.  
-   - **Oversized Items**: Furniture, large appliances—flat‑rate freight shipping; delivery appointments may be required.
-   - **Address Accuracy**:  
-     - We validate addresses at checkout; incorrect addresses may incur redelivery fees.  
-     - If undeliverable, returned to us—customer pays return/shipment fees.
+Title: Shipping Delays
 
-4. Lost, Damaged & Delayed Shipments (≈200 words)
-   - **Lost Packages**  
-     - File a claim via “My Orders” > Order details > “Report an issue.”  
-     - Our team investigates with the carrier; replacement or refund within 10 business days.
-   - **Damaged Items**  
-     - Photograph packaging and item; submit via support form within 48 hours of delivery.  
-     - We’ll arrange return shipping and issue a refund or replacement.
-   - **Delays**  
-     - Weather, customs, and carrier logistics can affect transit.  
-     - You’ll receive automated delay notifications; contact support for manual escalation.
+Possible Causes:
+- High order volume during sales or holidays
+- Weather disruptions
+- Incorrect shipping address
+What to do:
+- Wait up to 48 hours after expected delivery before contacting support
+- Use tracking ID to check status
 
-5. Eco‑Friendly Shipping Initiatives (≈150 words)
-   - **Carbon‑Neutral Option**  
-     - Offset program invests in reforestation; $1 per order.  
-   - **Consolidated Packing**  
-     - Combine multiple items into one shipment where possible.  
-   - **Recycled Packaging**  
-     - 100% recyclable mailers and boxes; biodegradable packing fill.
+Title: Change Shipping Address After Ordering
 
-Our shipping framework balances speed, cost, and sustainability, with clear policies to keep you informed and protected at every step.  
+Policy:
+- You may update your shipping address within 30 minutes of placing an order.
+Steps:
+1. Go to “My Orders”
+2. Select the active order
+3. Click “Edit Address” (only available if not yet shipped)
+If the order has shipped, the address cannot be changed.
