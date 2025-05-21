@@ -140,3 +140,162 @@ Features:
 Warranty: 1 year  
 Returnable: Yes (unused)
 
+---
+
+### Sample 1
+
+**Product Name**: Apple iPhone 16 Pro Max
+**Category**: Smartphones
+**Price**: \$1199
+**Specifications**:
+
+* Display: 6.7-inch Super Retina XDR OLED
+* Chip: A17 Pro
+* Storage: 128GB / 256GB / 512GB / 1TB
+* Camera: 48MP + 12MP + LiDAR Scanner
+  **Warranty**: 1 year
+  **Returnable**: Within 30 days if unopened
+
+---
+
+### Sample 2
+
+**Product Name**: Samsung Galaxy S24 Ultra
+**Category**: Smartphones
+**Price**: \$1299
+**Specifications**:
+
+* Display: 6.8-inch AMOLED QHD+
+* Chip: Snapdragon 8 Gen 3
+* Storage: 256GB / 512GB / 1TB
+* Camera: 200MP + 12MP + 10MP
+  **Warranty**: 1 year
+  **Returnable**: Within 14 days
+
+---
+
+### Sample 3
+
+**Product Name**: Dell XPS 13 Plus
+**Category**: Laptops
+**Price**: \$1399
+**Specifications**:
+
+* Display: 13.4-inch 4K UHD+
+* Processor: Intel Core i7-1360P
+* RAM: 16GB
+* Storage: 512GB SSD
+  **Warranty**: 2 years
+  **Returnable**: Within 15 days if unopened
+
+---
+
+### Sample 4
+
+**Product Name**: Sony WH-1000XM5
+**Category**: Headphones
+**Price**: \$399
+**Specifications**:
+
+* Type: Over-ear
+* Noise Cancellation: Active
+* Battery Life: Up to 30 hours
+* Bluetooth: 5.2
+  **Warranty**: 1 year
+  **Returnable**: Within 30 days with original packaging
+
+---
+
+### Sample 5
+
+**Product Name**: LG 55-inch OLED evo C3
+**Category**: Televisions
+**Price**: \$1499
+**Specifications**:
+
+* Display: 4K OLED
+* Smart TV: webOS
+* HDMI Ports: 4
+* Refresh Rate: 120Hz
+  **Warranty**: 2 years
+  **Returnable**: Within 7 days
+
+---
+
+### Sample 6
+
+**Product Name**: Logitech MX Master 3S
+**Category**: Accessories
+**Price**: \$99
+**Specifications**:
+
+* Type: Wireless Mouse
+* DPI: Up to 8000
+* Battery Life: 70 days
+* Connectivity: USB-C, Bluetooth
+  **Warranty**: 1 year
+  **Returnable**: Within 15 days
+
+---
+
+### Sample 7
+
+**Product Name**: Apple Watch Series 9
+**Category**: Smartwatches
+**Price**: \$499
+**Specifications**:
+
+* Display: Always-On Retina
+* Processor: S9 SiP
+* Storage: 64GB
+* Sensors: Blood Oxygen, ECG, Temperature
+  **Warranty**: 1 year
+  **Returnable**: Within 30 days if unopened
+
+---
+
+### Sample 8
+
+**Product Name**: Nintendo Switch OLED
+**Category**: Gaming Consoles
+**Price**: \$349
+**Specifications**:
+
+* Display: 7-inch OLED
+* Storage: 64GB
+* Battery Life: Up to 9 hours
+* Includes: Joy-Con controllers
+  **Warranty**: 1 year
+  **Returnable**: Within 14 days unopened
+
+---
+
+### Sample 9
+
+**Product Name**: Bose QuietComfort Ultra Earbuds
+**Category**: Earbuds
+**Price**: \$299
+**Specifications**:
+
+* Noise Cancellation: Adaptive
+* Battery Life: Up to 24 hours with case
+* Bluetooth: 5.3
+* Water Resistance: IPX4
+  **Warranty**: 1 year
+  **Returnable**: Within 30 days
+
+---
+
+### Sample 10
+
+**Product Name**: Kindle Paperwhite Signature Edition
+**Category**: E-readers
+**Price**: \$189
+**Specifications**:
+
+* Display: 6.8-inch glare-free
+* Storage: 32GB
+* Lighting: Auto-adjusting warm light
+* Battery Life: Up to 10 weeks
+  **Warranty**: 1 year
+  **Returnable**: Within 30 days

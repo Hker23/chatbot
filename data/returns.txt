@@ -1,52 +1,101 @@
-Returns & Refunds Policy
+Dưới đây là một **bộ chính sách Returns & Refunds đầy đủ** với **5 mục** tương tự như mẫu bạn cung cấp, nhưng là **phiên bản viết mới hoàn toàn**, giữ nguyên cấu trúc nhưng **nội dung khác biệt** (dùng để tạo dữ liệu mẫu cho e-commerce hoặc làm tài liệu chính sách).
 
-1. Eligibility & Timeframes (≈200 words)
-   - **Standard Returns**  
-     - Eligible within 30 days of delivery for most non-perishable, non-final-sale items.  
-     - Item must be unused, in original packaging, with all accessories and manuals.
-   - **Extended Holiday Window**  
-     - Orders placed between Nov 1 and Dec 31 can be returned until Jan 31.  
-   - **Final Sale & Exclusions**  
-     - Final‑sale items (marked clearly), perishable goods, personalized/custom items, and health & hygiene products are non‑returnable.
+---
 
-2. How to Initiate a Return (≈250 words)
-   - **Online Returns Portal**  
-     - Go to “My Orders,” select the order, click “Request Return.”  
-     - Choose item(s), reason (Wrong Size, Defective, Changed Mind, etc.), and preferred remedy (Refund, Exchange, Store Credit).
-   - **Print Shipping Label**  
-     - Download and print pre-paid return label (free for errors on our part; $7.99 for change‑of‑mind).  
-     - Attach label over existing label; pack item securely.
-   - **Drop Off / Schedule Pickup**  
-     - Drop at designated carrier location (UPS, FedEx, USPS).  
-     - For bulky items, schedule a free pickup via our partner carrier site.
+## **Returns & Refunds Policy**
 
-3. Processing & Refunds (≈250 words)
-   - **Inspection**  
-     - Once received at our returns center (2–5 business days transit), item is inspected for eligibility.  
-   - **Refund Timeline**  
-     - Approved refunds processed within 7 business days of inspection.  
-     - Funds return to original payment method.  
-     - You’ll receive email notification at each stage.
-   - **Exchanges**  
-     - If you requested an exchange, new item ships once original is approved.  
-     - No additional shipping fee for standard exchanges.
-   - **Store Credit**  
-     - Issued immediately upon approval; valid for 12 months.
+### 1. Eligibility & Return Window
 
-4. Damaged & Defective Items (≈200 words)
-   - **Reporting**  
-     - Submit photos of damage/defect within 48 hours of delivery via online form.  
-     - Select “Defective” as return reason to receive a free shipping label.
-   - **Resolution**  
-     - Options: replacement, full refund, or repair (for select categories like electronics).
-   - **Manufacturer Warranty**  
-     - For products under manufacturer warranty, we’ll facilitate warranty claims directly with the brand.
+* **General Return Eligibility**
 
-5. Customer Support & Appeals (≈100 words)
-   - **Live Chat & Email**  
-     - Available 24/7 for return questions.  
-   - **Appeals**  
-     - If a return is denied, you may appeal within 5 business days.  
-     - Provide additional details/photos for reconsideration.
+  * Most items are eligible for return within 30 calendar days from the date of delivery.
+  * Products must be in new condition, unused, and returned in the original packaging with all included accessories and documentation.
+  * Return requests beyond this window may not be accepted unless covered by an extended return promotion.
 
-Our returns process is designed for transparency and ease, ensuring you get the remedy you need with minimal hassle.
+* **Holiday Return Policy**
+
+  * Items purchased between November 15 and December 31 are eligible for return through January 15 of the following year.
+  * Applies only to products marked as gift-eligible during checkout.
+
+* **Non-Returnable Products**
+
+  * Clearance and final-sale items are non-returnable and marked as such at time of purchase.
+  * Opened software, personalized items, food, and items involving health or sanitation (e.g., opened headphones or toothbrushes) cannot be returned for any reason.
+
+---
+
+### 2. How to Start a Return 
+
+* **Step-by-Step Process**
+
+  * Sign in to your account and go to the "Order History" section.
+  * Select the item you wish to return, click “Initiate Return,” and follow the prompts to select a reason and refund method (original payment, store credit, or exchange).
+
+* **Shipping Label Instructions**
+
+  * A prepaid shipping label will be generated. Print and affix the label to your return package.
+  * For change-of-mind returns, a flat return fee of \$6.95 will be deducted from your refund.
+  * Returns due to our fault (e.g., wrong item, defect) are shipped free of charge.
+
+* **Return Options**
+
+  * Drop off your package at any authorized drop location (e.g., USPS, FedEx, UPS) listed in your return email.
+  * If the item exceeds 30 lbs or qualifies as oversized, you may request a home pickup at no cost.
+
+---
+
+### 3. Return Processing & Refunds 
+
+* **What Happens After Return**
+
+  * Once your returned item is received, our warehouse team will assess the condition and verify eligibility. This typically takes 2–3 business days after delivery.
+
+* **Refund Timing**
+
+  * Refunds are processed within 5–7 business days of approval.
+  * Funds will be returned to your original payment method (credit card, PayPal, etc.).
+  * You will be notified via email once your return is inspected and processed.
+
+* **Exchanges**
+
+  * If you opted for an exchange, we will ship the replacement product within 48 hours of return approval.
+  * There is no extra charge for exchange shipping on the first return attempt.
+
+* **Store Credit**
+
+  * Store credits are issued instantly once your return is accepted.
+  * Credit can be used for any future purchases and expires after 365 days.
+
+---
+
+### 4. Items Damaged or Defective on Arrival
+
+* **Submit a Damage Claim**
+
+  * Contact us within 72 hours of delivery if your item arrives damaged or is not functioning properly.
+  * Use the "Report a Problem" form and upload clear photos of the issue.
+
+* **Free Resolution Options**
+
+  * For qualifying cases, we will offer a replacement, a full refund, or an authorized repair depending on product type.
+  * All shipping costs are covered for returns due to damage or defects.
+
+* **Manufacturer Coverage**
+
+  * Many electronics and high-value items include a manufacturer warranty.
+  * We are happy to assist in contacting the manufacturer to start your warranty claim.
+
+---
+
+### 5. Support & Return Appeals
+
+* **Need Help?**
+
+  * Our customer support team is available 7 days a week via live chat, phone, or email to assist you with returns.
+
+* **Requesting a Review**
+
+  * If your return was denied due to condition or eligibility, you may file an appeal within 7 business days.
+  * Submit your case via the Return Appeals Form with supporting photos or receipts.
+
+We aim to make your return process smooth and fair, giving you flexibility while protecting product integrity.
